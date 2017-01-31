@@ -73,7 +73,7 @@ a {
 
 .module {
   display: block;
-  width: 100%;
+  width: 1282px;
   padding-top: 80px;
   padding-bottom: 44px;
   color: #667;
@@ -99,6 +99,7 @@ a {
 }
 
 #gallery {
+  width: 1282px;
   background-color: #7a7d7d;
   padding: 50px;
 }
@@ -214,6 +215,7 @@ input:checked + .slide-container .nav label { display: block; }
   background-position: center center;
 }
 .checkout-header {
+  width: 1282px;
   background-color: #7a7d7d;
   padding-top: 33px;
   padding-bottom: 10px;
@@ -231,6 +233,7 @@ input:checked + .slide-container .nav label { display: block; }
   margin: 0 auto;
 }
 .checkout-step-billing {
+  width: 1282px;
   background-color: #7a7d7d;
   padding-top: 66px;
   padding-bottom: 35px;
