@@ -8,7 +8,7 @@ a {
 }
 
 .imgbox {
-  background-image: url('../img/sunsetpanel.jpg') ;
+  background-image: url('img/sunsetpanel.jpg') ;
   width: 1282px;
   height: 641px;
   display: block;
