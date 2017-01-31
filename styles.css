@@ -8,7 +8,7 @@ a {
 }
 
 .imgbox {
-  background-image: url('img/sunsetpanel.jpg') ;
+  background-image: url('/img/sunsetpanel.jpg') ;
   width: 1282px;
   height: 641px;
   display: block;
@@ -143,7 +143,7 @@ a {
 }
 
 .nav label {
-    width: 200px;
+    width: 100px;
     height: 100%;
     display: none;
     position: absolute;
