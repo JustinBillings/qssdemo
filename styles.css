@@ -220,7 +220,6 @@ input:checked + .slide-container .nav label { display: block; }
   padding-top: 33px;
   padding-bottom: 10px;
   display: block;
-  width: 100%;
 }
 .checkout-header-logo {
   background-image: url("./images/checkout-header-logo@2x.png");
